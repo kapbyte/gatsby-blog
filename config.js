@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Kelechi Chinaka',
-  subtitle: 'Enjoyment Minister',
+  subtitle: 'Software Engineer by day, Technical writer. by night',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -18,33 +18,30 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Kelechi Chinaka',
     photo: '/photo.jpg',
-    bio: 'Enjoyment version chap.',
+    bio: 'Software Development Engineer. Technical writer.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'mrkelechichinaka@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'https://twitter.com/kapbyte',
+      github: 'https://github.com/ke1echi',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'https://www.linkedin.com/in/kelechichinaka/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: '#',
+      hashnode: 'https://kapbyte.hashnode.dev/'
     }
   }
 };
