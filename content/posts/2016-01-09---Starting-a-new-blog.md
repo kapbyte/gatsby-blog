@@ -1,12 +1,12 @@
 ---
-title: My blog journey begins.
+title: The Forbidden Fruit
 date: "2022-01-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "my-blog-journey-begins"
+slug: "the-forbidden-fruit"
 category: "Software Development"
 tags:
-  - "Software Development"
+  - "Handwriting"
   - "Learning to write"
 description: "I've learnt that some fruits are forbidden. But why can't I eat these fruits? Who tagged these fruits as forbidden? So why was it planted in the first palce? These and more are some of the questions I asked myself when it all happened."
 socialImage: "/media/image-2.jpg"
