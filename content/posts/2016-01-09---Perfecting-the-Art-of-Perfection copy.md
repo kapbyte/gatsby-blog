@@ -1,5 +1,5 @@
 ---
-title: My blog journey begins.
+title: "New Era: Started A Blog"
 date: "2022-01-01T23:46:37.121Z"
 template: "post"
 draft: false
